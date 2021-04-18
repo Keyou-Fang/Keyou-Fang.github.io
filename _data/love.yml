@@ -1,0 +1,12 @@
+header:
+    name: "Keyou_Fang"
+    favicon: "https://z3.ax1x.com/2021/04/18/cIT5qA.jpg"
+    siteurl: "https://blog.Keyou_Fang.me"
+    introduction: "如果真爱有颜色"
+
+photo:
+    photo: true
+    pictures:
+        - "https://i.loli.net/2018/07/31/5b607051aef7d.jpg"
+        - "https://i.loli.net/2018/07/31/5b607052ce870.jpg"
+        - "https://i.loli.net/2018/07/31/5b60705508637.jpg"
