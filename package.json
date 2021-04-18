@@ -1,0 +1,31 @@
+{
+  "name": "Keyou_Fang's Blog",
+  "version": "0.5.2.0",
+  "description": "Have a nice day：）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeJunMao/jekyll-theme-mdui.git"
+  },
+  "keywords": [
+    "Jekyll",
+    "theme",
+    "MDUI"
+  ],
+  "author": "Keyou_Fang",
+  "license": "H14Z",
+  "bugs": {
+    "url": "https://github.com/Keyou-Fang/Keyou-Fang.github.io"
+  },
+  "homepage": "https://github.com/Keyou-Fang/Keyou-Fang.github.io",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-util": "^3.0.8"
+  }
+}
